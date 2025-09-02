@@ -1,0 +1,7 @@
+{
+  "name": "EchoScribe AI",
+  "description": "An intelligent audio transcription application powered by Gemini. Easily convert spoken words from audio files or live recordings into accurate text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
